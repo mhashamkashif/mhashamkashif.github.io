@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "M Hasham Kashif."
+title                    : "M Hasham Kashif"
 title_separator          : "-"
 name                     : &name "M Hasham Kashif"
 description              : &description "M Hasham Kashif's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : "He/Him"  
   bio              : "Fronteir technologies in Civil Engineering"  # A short bio or tagline for the author
   location         : "Nebraska, USA"  # Location of the author
-  employer         : "University of Nebraska-Lincoln"  # Employer of the author
+  employer         : "Uni of Nebraska-Lincoln"  # Employer of the author
   job_title        : "Graduate Research Assistant"  # Job title of the author
   uri              : # URL
   email            : "mhasham.kashif@gmail.com" 
