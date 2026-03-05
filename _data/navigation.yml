@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: /files/Resume.pdf
+    url: files/Resume.pdf
 
   - title: "Portfolio"
     url: /portfolio/
@@ -18,7 +18,7 @@ main:
     url: /research/
 
   - title: "Publications"
-    url: /publications/
+    url: /publications/s
   
   - title: "Teaching"
     url: /teaching/    
